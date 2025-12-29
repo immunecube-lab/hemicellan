@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 189.034 141.355">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 6.72px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Calibri-Bold, Calibri;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: -.006em;
+      }
+
+      .cls-4 {
+        letter-spacing: .01em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        stroke: #868686;
+        stroke-width: .622px;
+      }
+
+      .cls-6, .cls-7 {
+        fill: none;
+        stroke-linejoin: round;
+      }
+
+      .cls-8 {
+        letter-spacing: .008em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.009em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.005em;
+      }
+
+      .cls-11, .cls-12, .cls-13 {
+        stroke-width: 0px;
+      }
+
+      .cls-14 {
+        letter-spacing: -.001em;
+      }
+
+      .cls-15 {
+        letter-spacing: .009em;
+      }
+
+      .cls-16 {
+        letter-spacing: .007em;
+      }
+
+      .cls-17, .cls-18 {
+        font-family: Calibri, Calibri;
+      }
+
+      .cls-17, .cls-2 {
+        font-size: 9.96px;
+      }
+
+      .cls-19 {
+        fill: #231f20;
+        font-family: AppleSDGothicNeoEB00, AppleSDGothicNeoEB00;
+        font-size: 12px;
+      }
+
+      .cls-20 {
+        letter-spacing: -.003em;
+      }
+
+      .cls-21 {
+        font-family: AppleSDGothicNeoR00, AppleSDGothicNeoR00;
+      }
+
+      .cls-21, .cls-18 {
+        font-size: 6.96px;
+      }
+
+      .cls-22 {
+        letter-spacing: -.006em;
+      }
+
+      .cls-23 {
+        letter-spacing: .01em;
+      }
+
+      .cls-24 {
+        letter-spacing: .002em;
+      }
+
+      .cls-25 {
+        letter-spacing: -.006em;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        letter-spacing: .012em;
+      }
+
+      .cls-7 {
+        stroke: #bfbfbf;
+        stroke-width: .72px;
+      }
+
+      .cls-12 {
+        fill: #7296ce;
+      }
+
+      .cls-12, .cls-13 {
+        fill-rule: evenodd;
+      }
+
+      .cls-28 {
+        letter-spacing: .009em;
+      }
+
+      .cls-29 {
+        letter-spacing: .011em;
+      }
+
+      .cls-30 {
+        letter-spacing: -.003em;
+      }
+
+      .cls-13 {
+        fill: #9c5353;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-12" points="44.559 116.241 58.359 116.241 58.359 119.481 44.559 119.481 44.559 116.241 44.559 116.241"/>
+  <polygon class="cls-13" points="78.879 66.081 92.679 66.081 92.679 119.481 78.879 119.481 78.879 66.081 78.879 66.081"/>
+  <polygon class="cls-12" points="128.955 68.001 142.635 68.001 142.635 119.481 128.955 119.481 128.955 68.001 128.955 68.001"/>
+  <polygon class="cls-12" points="163.275 42.441 177.075 42.441 177.075 119.481 163.275 119.481 163.275 42.441 163.275 42.441"/>
+  <g>
+    <path class="cls-11" d="m51.519,116.241v-.24m-2.28,0h4.44"/>
+    <path class="cls-7" d="m51.519,116.241v-.24m-2.28,0h4.44"/>
+  </g>
+  <g>
+    <path class="cls-11" d="m85.839,66.081v-3.96m-2.28,0h4.44"/>
+    <path class="cls-7" d="m85.839,66.081v-3.96m-2.28,0h4.44"/>
+  </g>
+  <g>
+    <path class="cls-11" d="m135.795,68.001v-4.08m-2.28,0h4.56"/>
+    <path class="cls-7" d="m135.795,68.001v-4.08m-2.28,0h4.56"/>
+  </g>
+  <g>
+    <path class="cls-11" d="m170.115,42.441v-5.88m-2.16,0h4.44"/>
+    <path class="cls-7" d="m170.115,42.441v-5.88m-2.16,0h4.44"/>
+  </g>
+  <line class="cls-7" x1="34.239" y1="119.481" x2="34.239" y2="26.841"/>
+  <path class="cls-7" d="m31.119,119.481h3.12m-3.12-18.48h3.12m-3.12-18.6h3.12m-3.12-18.48h3.12m-3.12-18.48h3.12m-3.12-18.6h3.12"/>
+  <line class="cls-6" x1="34.239" y1="119.481" x2="188.195" y2="119.481"/>
+  <text class="cls-17" transform="translate(19.939 122.305)"><tspan x="0" y="0">0</tspan></text>
+  <text class="cls-17" transform="translate(12.353 103.774)"><tspan x="0" y="0">0.5</tspan></text>
+  <text class="cls-17" transform="translate(19.939 85.258)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-17" transform="translate(12.353 66.734)"><tspan x="0" y="0">1.5</tspan></text>
+  <text class="cls-17" transform="translate(19.939 48.219)"><tspan x="0" y="0">2</tspan></text>
+  <text class="cls-17" transform="translate(12.353 29.695)"><tspan x="0" y="0">2.5</tspan></text>
+  <text class="cls-18" transform="translate(40.791 130.641)"><tspan class="cls-30" x="0" y="0">v</tspan><tspan class="cls-24" x="3.123" y="0">e</tspan><tspan class="cls-8" x="6.6" y="0">c</tspan><tspan class="cls-28" x="9.598" y="0">h</tspan><tspan class="cls-9" x="13.318" y="0">c</tspan><tspan class="cls-29" x="16.198" y="0">l</tspan><tspan x="17.872" y="0">e</tspan></text>
+  <text class="cls-18" transform="translate(80.908 130.641)"><tspan class="cls-23" x="0" y="0">L</tspan><tspan x="2.996" y="0">PS</tspan></text>
+  <g>
+    <text class="cls-21" transform="translate(122.915 130.703)"><tspan x="0" y="0">헤미셀란</tspan><tspan x="-2.916" y="8.352">(10μg/mL)</tspan></text>
+    <text class="cls-21" transform="translate(159.844 130.703)"><tspan x="0" y="0">헤미셀란</tspan><tspan x="-5.108" y="8.352">(100μg/mL)</tspan></text>
+  </g>
+  <text class="cls-18" transform="translate(69.908 139.18)"><tspan class="cls-16" x="0" y="0">(</tspan><tspan class="cls-22" x="2.159" y="0">1</tspan><tspan class="cls-4" x="5.645" y="0">0</tspan><tspan class="cls-22" x="9.242" y="0">0</tspan><tspan class="cls-15" x="12.728" y="0">n</tspan><tspan class="cls-27" x="16.447" y="0">g</tspan><tspan class="cls-3" x="19.807" y="0">/</tspan><tspan class="cls-29" x="22.453" y="0">m</tspan><tspan class="cls-10" x="28.09" y="0">l</tspan><tspan x="29.652" y="0">)</tspan></text>
+  <text class="cls-2" transform="translate(8.126 86.57) rotate(-90)"><tspan class="cls-14" x="0" y="0">O</tspan><tspan class="cls-20" x="6.726" y="0">D</tspan><tspan class="cls-26" x="12.974" y="0"> </tspan></text>
+  <text class="cls-1" transform="translate(10.533 71.227) rotate(-90)"><tspan class="cls-25" x="0" y="0">405</tspan><tspan class="cls-5" x="10.097" y="0">nm</tspan></text>
+  <text class="cls-19" transform="translate(62.567 10.56)"><tspan x="0" y="0">라이소좀 효소 활성</tspan></text>
+</svg>

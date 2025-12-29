@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272.301 179.511">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: AppleSDGothicNeoEB00, AppleSDGothicNeoEB00;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #231f20;
+        font-size: 11px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-3, .cls-8 {
+        fill: #cabfd6;
+      }
+
+      .cls-4, .cls-9 {
+        fill: #e6dfea;
+      }
+
+      .cls-5, .cls-10 {
+        fill: #af9fc1;
+      }
+
+      .cls-8, .cls-11, .cls-12, .cls-9, .cls-10 {
+        stroke-width: 0px;
+      }
+
+      .cls-11, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-12, .cls-13 {
+        fill: #060303;
+      }
+
+      .cls-14, .cls-15 {
+        stroke-width: 1.392px;
+      }
+
+      .cls-14, .cls-15, .cls-16 {
+        stroke-linejoin: round;
+      }
+
+      .cls-14, .cls-15, .cls-16, .cls-7 {
+        fill: none;
+      }
+
+      .cls-14, .cls-16 {
+        stroke: #868686;
+      }
+
+      .cls-13 {
+        font-family: Calibri, Calibri;
+        font-size: 11.138px;
+      }
+
+      .cls-15 {
+        stroke: #060303;
+      }
+
+      .cls-16 {
+        stroke-width: 1.167px;
+      }
+
+      .cls-2 {
+        font-family: AppleSDGothicNeoR00, AppleSDGothicNeoR00;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-11" points="78.908 129.756 96.088 129.756 96.088 161.778 78.908 161.778 78.908 129.756 78.908 129.756 78.908 129.756"/>
+  <polygon class="cls-15" points="78.908 129.756 96.088 129.756 96.088 161.778 78.908 161.778 78.908 129.756 78.908 129.756 78.908 129.756"/>
+  <polygon class="cls-9" points="96.088 112.584 112.805 112.584 112.805 161.778 96.088 161.778 96.088 112.584 96.088 112.584 96.088 112.584"/>
+  <polygon class="cls-15" points="96.088 112.584 112.805 112.584 112.805 161.778 96.088 161.778 96.088 112.584 96.088 112.584 96.088 112.584"/>
+  <polygon class="cls-8" points="112.805 80.098 129.985 80.098 129.985 161.778 112.805 161.778 112.805 80.098 112.805 80.098 112.805 80.098"/>
+  <polygon class="cls-15" points="112.805 80.098 129.985 80.098 129.985 161.778 112.805 161.778 112.805 80.098 112.805 80.098 112.805 80.098"/>
+  <polygon class="cls-10" points="129.985 43.435 147.166 43.435 147.166 161.778 129.985 161.778 129.985 43.435 129.985 43.435 129.985 43.435"/>
+  <polygon class="cls-15" points="129.985 43.435 147.166 43.435 147.166 161.778 129.985 161.778 129.985 43.435 129.985 43.435 129.985 43.435"/>
+  <path class="cls-12" d="m87.73,129.756v-2.785,2.785Zm-4.643-2.785h8.822-8.822Z"/>
+  <path class="cls-15" d="m87.73,129.756v-2.785m-4.643,0h8.822"/>
+  <path class="cls-12" d="m104.447,112.584v-2.784,2.784Zm-4.179-2.784h8.358-8.358Z"/>
+  <path class="cls-15" d="m104.447,112.584v-2.784m-4.179,0h8.358"/>
+  <path class="cls-12" d="m121.627,80.098v-5.105,5.105Zm-4.179-5.105h8.358-8.358Z"/>
+  <path class="cls-15" d="m121.627,80.098v-5.105m-4.179,0h8.358"/>
+  <path class="cls-12" d="m138.344,43.435v-10.21,10.21Zm-4.179-10.21h8.822-8.822Z"/>
+  <path class="cls-15" d="m138.344,43.435v-10.21m-4.179,0h8.822"/>
+  <line class="cls-14" x1="39.398" y1="161.778" x2="39.398" y2="5.844"/>
+  <path class="cls-14" d="m35.683,161.778h3.715m-3.715-22.276h3.715m-3.715-22.276h3.715m-3.715-22.276h3.715m-3.715-22.276h3.715m-3.715-22.276h3.715m-3.715-22.276h3.715m-3.715-22.276h3.715"/>
+  <line class="cls-16" x1="39.398" y1="161.778" x2="171.189" y2="161.778"/>
+  <path class="cls-16" d="m39.398,161.778v4.641m65.569-4.641,66.222,0v4.641"/>
+  <text class="cls-13" transform="translate(23.147 164.567)"><tspan x="0" y="0">0</tspan></text>
+  <g>
+    <text class="cls-13" transform="translate(17.579 142.278)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-13" transform="translate(23.147 142.278)"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g>
+    <text class="cls-13" transform="translate(17.579 120.02)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-13" transform="translate(23.147 120.02)"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g>
+    <text class="cls-13" transform="translate(17.579 97.746)"><tspan x="0" y="0">3</tspan></text>
+    <text class="cls-13" transform="translate(23.147 97.746)"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g>
+    <text class="cls-13" transform="translate(17.579 75.473)"><tspan x="0" y="0">4</tspan></text>
+    <text class="cls-13" transform="translate(23.147 75.473)"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g>
+    <text class="cls-13" transform="translate(17.579 53.186)"><tspan x="0" y="0">5</tspan></text>
+    <text class="cls-13" transform="translate(23.147 53.186)"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g>
+    <text class="cls-13" transform="translate(17.579 31.39)"><tspan x="0" y="0">6</tspan></text>
+    <text class="cls-13" transform="translate(23.147 31.39)"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g>
+    <text class="cls-13" transform="translate(17.579 9.088)"><tspan x="0" y="0">7</tspan></text>
+    <text class="cls-13" transform="translate(23.147 9.088)"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <text class="cls-1" transform="translate(9.68 157.424) rotate(-90)"><tspan x="0" y="0">탐식된 박테리아가 있는 세포 (%)</tspan></text>
+  <polygon class="cls-6" points="172.861 20.624 177.968 20.624 177.968 25.729 172.861 25.729 172.861 20.624 172.861 20.624 172.861 20.624"/>
+  <polygon class="cls-7" points="172.861 20.624 177.968 20.624 177.968 25.729 172.861 25.729 172.861 20.624 172.861 20.624 172.861 20.624"/>
+  <polygon class="cls-4" points="172.861 34.547 177.968 34.547 177.968 39.652 172.861 39.652 172.861 34.547 172.861 34.547 172.861 34.547"/>
+  <polygon class="cls-7" points="172.861 34.547 177.968 34.547 177.968 39.652 172.861 39.652 172.861 34.547 172.861 34.547 172.861 34.547"/>
+  <polygon class="cls-3" points="172.861 48.469 177.968 48.469 177.968 53.574 172.861 53.574 172.861 48.469 172.861 48.469 172.861 48.469"/>
+  <polygon class="cls-7" points="172.861 48.469 177.968 48.469 177.968 53.574 172.861 53.574 172.861 48.469 172.861 48.469 172.861 48.469"/>
+  <polygon class="cls-5" points="172.861 62.392 177.968 62.392 177.968 67.497 172.861 67.497 172.861 62.392 172.861 62.392 172.861 62.392"/>
+  <polygon class="cls-7" points="172.861 62.392 177.968 62.392 177.968 67.497 172.861 67.497 172.861 62.392 172.861 62.392 172.861 62.392"/>
+  <text class="cls-1" transform="translate(96.088 176.706)"><tspan x="0" y="0">60 분후</tspan></text>
+  <text class="cls-2" transform="translate(184.225 28.121)"><tspan x="0" y="0">대조군</tspan><tspan x="0" y="13.2">헤미셀란 1 ug/ml</tspan><tspan x="0" y="26.4">헤미셀란 10 ug/ml</tspan><tspan x="0" y="39.6">헤미셀란 100 ug/ml</tspan></text>
+</svg>

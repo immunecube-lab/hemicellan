@@ -1,0 +1,236 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+/* 여기서는 폰트를 굳이 강제하지 않고, Tailwind의 font-sans 사용을 기본으로 합니다. */
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+
+/* =========================
+   Footnotes (Markdown/MDX)
+   - remark/rehype 계열 footnote HTML
+   - Nextra/typography(prose)와 충돌 최소화
+   ========================= */
+
+/* 각주 섹션 전체 */
+.prose .footnotes {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+  font-size: 0.92em; /* 본문보다 살짝 작게 */
+  line-height: 1.65;
+}
+
+/* 각주 리스트 */
+.prose .footnotes ol {
+  padding-left: 1.25rem;
+  margin-top: 0.75rem;
+}
+
+/* 각주 항목 */
+.prose .footnotes li {
+  margin: 0.35rem 0;
+}
+
+/* 본문에서 각주 참조 링크 (예: [^1]) */
+.prose a[href^="#fn:"],
+.prose a[href^="#footnote-"] {
+  text-decoration: none;
+  font-variant-numeric: tabular-nums;
+}
+
+/* 각주에서 본문으로 돌아가는 링크(↩︎) */
+.prose a[href^="#fnref:"],
+.prose a[href^="#footnote-ref-"] {
+  text-decoration: none;
+  margin-left: 0.25rem;
+  opacity: 0.75;
+}
+
+.prose a[href^="#fnref:"]:hover,
+.prose a[href^="#footnote-ref-"]:hover {
+  opacity: 1;
+}
+
+/* =========================
+   Blockquote (disable italic globally)
+   ========================= */
+
+.prose :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)),
+.prose :where(blockquote p):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  font-style: normal;
+}
+
+/* =========================
+   Lists – tighter spacing
+   ========================= */
+
+/* 리스트 자체 위아래 여백 축소 */
+.prose ul,
+.prose ol {
+  margin-top: 0.15rem;
+  margin-bottom: 0.15rem;
+  padding-left: 1.1rem; /* 필요 시 1.0rem까지 더 줄이셔도 됩니다 */
+}
+
+/* 항목(불릿) 간 간격 축소: 핵심 */
+.prose ul > li,
+.prose ol > li {
+  margin-top: 0.05rem;
+  margin-bottom: 0.05rem;
+}
+
+/* 리스트 항목 내부에 p가 생길 때(특히 MDX에서) 추가 마진 제거 */
+.prose li > p {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.55;
+}
+
+/* 중첩 리스트 간 간격도 최소화 */
+.prose li > ul,
+.prose li > ol {
+  margin-top: 0.05rem;
+  margin-bottom: 0.05rem;
+}
+
+
+/* =========================================================
+   PRINT (final)
+   - 첫 페이지가 비고 2페이지부터 본문이 시작되는 문제 해결
+   - Nextra/Next 레이아웃의 sticky/fixed/aside/toc/skip-link 제거
+   - 본문 1컬럼 강제 + 여백 정리
+   ========================================================= */
+
+/* =========================================================
+   PRINT STYLE (FINAL, FULL)
+   - 첫 페이지가 비고 2페이지부터 시작되는 문제 해결
+   - 목차/사이드바/헤더 제거
+   - 본문 1컬럼 인쇄
+   - 이미지 과도 확대 방지
+   ========================================================= */
+
+@media print {
+
+  /* 0) HTML / BODY 기본 리셋 */
+  html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    height: auto !important;
+    min-height: 0 !important;
+  }
+
+  /* 1) 인쇄에 필요 없는 UI 전부 제거 */
+  header,
+  nav,
+  footer,
+  aside,
+  .nextra-nav-container,
+  .nextra-sidebar,
+  .nextra-toc,
+  .nextra-search,
+  .nextra-scrollbar,
+  .menu,
+  .toc,
+  .sidebar,
+  .search,
+  .theme-toggle,
+  .toggle,
+  [data-toc],
+  [data-sidebar],
+  [data-nav],
+  [data-search],
+  a[href="#content"],
+  a[href="#main-content"],
+  a[href="#skip-to-content"],
+  .skip-to-content {
+    display: none !important;
+  }
+
+  /* 2) fixed / sticky / transform / contain 전부 무력화
+        (이게 1페이지가 비는 문제의 핵심 원인임) */
+  * {
+    position: static !important;
+    float: none !important;
+    transform: none !important;
+    filter: none !important;
+    contain: none !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+
+    break-before: auto !important;
+    break-after: auto !important;
+    break-inside: auto !important;
+    page-break-before: auto !important;
+    page-break-after: auto !important;
+    page-break-inside: auto !important;
+  }
+
+  /* 3) 본문을 무조건 첫 페이지, 1컬럼으로 */
+  main,
+  article,
+  .content,
+  .prose,
+  .nextra-content,
+  .nextra-body,
+  .nextra-container,
+  .nextra-wrapper {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* 4) 제목(h1)이 첫 페이지 상단을 밀어내는 현상 방지 */
+  h1,
+  .prose h1 {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  /* 5) 링크는 인쇄에서 눈에 띄지 않게 */
+  a, a:visited {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+
+  /* 6) 이미지 / 도표가 페이지 중간에서 잘리지 않게 */
+  img,
+  figure,
+  table,
+  pre,
+  blockquote {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  /* 7) 🔽 이미지가 너무 커지는 문제 완화 (인쇄 전용) */
+  img,
+  figure img {
+    max-height: 180mm;   /* A4 기준 안전한 최대 높이 */
+    width: auto !important;
+    height: auto !important;
+    margin: 0 auto !important;
+    display: block;
+    object-fit: contain !important;
+  }
+
+  /* 8) 페이지 여백 (하나만 유지) */
+  @page {
+    margin: 12mm;
+  }
+}

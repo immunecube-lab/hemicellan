@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 348.371 254.465">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.003em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.004em;
+      }
+
+      .cls-3 {
+        letter-spacing: .004em;
+      }
+
+      .cls-4 {
+        font-size: 9px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #231f20;
+        font-family: Freesentation-6SemiBold, Freesentation;
+        font-weight: 600;
+      }
+
+      .cls-6 {
+        font-family: Calibri, Calibri;
+      }
+
+      .cls-6, .cls-7 {
+        font-size: 9.96px;
+      }
+
+      .cls-5 {
+        font-size: 12px;
+      }
+
+      .cls-8 {
+        letter-spacing: -.003em;
+      }
+
+      .cls-9 {
+        letter-spacing: .005em;
+      }
+
+      .cls-10 {
+        letter-spacing: .014em;
+      }
+
+      .cls-11 {
+        stroke: #868686;
+        stroke-width: .72px;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: none;
+        stroke-linejoin: round;
+      }
+
+      .cls-15 {
+        letter-spacing: .002em;
+      }
+
+      .cls-12 {
+        stroke: #b3a3c7;
+      }
+
+      .cls-12, .cls-13, .cls-14 {
+        stroke-linecap: round;
+        stroke-width: 2.28px;
+      }
+
+      .cls-13 {
+        stroke: #000;
+      }
+
+      .cls-7 {
+        font-family: Calibri-Bold, Calibri;
+        font-weight: 700;
+      }
+
+      .cls-16 {
+        letter-spacing: -.004em;
+      }
+
+      .cls-14 {
+        stroke: #614b7b;
+      }
+
+      .cls-17 {
+        letter-spacing: .003em;
+      }
+
+      .cls-18 {
+        letter-spacing: .004em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <line class="cls-11" x1="25.643" y1="223.777" x2="25.643" y2="33.817"/>
+  <path class="cls-11" d="m22.523,223.777h3.12m-3.12-31.68h3.12m-3.12-31.68h3.12m-3.12-31.68h3.12m-3.12-31.68h3.12m-3.12-31.56h3.12m-3.12-31.68h3.12"/>
+  <line class="cls-11" x1="25.643" y1="223.777" x2="343.403" y2="223.777"/>
+  <path class="cls-11" d="m25.643,223.777v3.24m52.92-3.24v3.24m53.04-3.24v3.24m52.92-3.24v3.24m52.92-3.24v3.24m52.92-3.24v3.24m53.04-3.24v3.24"/>
+  <polyline class="cls-13" points="36.263 65.437 46.823 65.437 46.823 81.277 57.383 81.277 57.383 97.117 68.063 97.117 68.063 112.957 78.623 112.957 78.623 160.477 89.183 160.477 89.183 192.157 99.743 192.157 99.743 223.837"/>
+  <polyline class="cls-12" points="36.263 65.437 46.823 65.437 57.383 65.437 68.063 65.437 78.623 65.437 89.183 65.437 99.743 65.437 99.743 81.277 110.423 81.277 120.983 81.277 120.983 97.117 131.543 97.117 131.543 128.797 142.103 128.797 152.783 128.797 152.783 144.637 163.343 144.637 173.903 144.637 184.463 144.637 195.143 144.637 195.143 160.477 205.703 160.477 216.263 160.477 216.263 176.317 226.823 176.317 237.503 176.317 237.503 207.997 248.063 207.997 258.623 207.997 258.623 223.837"/>
+  <polyline class="cls-14" points="36.263 65.437 46.823 65.437 57.383 65.437 68.063 65.437 78.623 65.437 89.183 65.437 99.743 65.437 110.423 65.437 120.983 65.437 120.983 81.277 131.543 81.277 142.103 81.277 142.103 97.117 152.783 97.117 163.343 97.117 163.343 112.957 173.903 112.957 184.463 112.957 184.463 128.797 195.143 128.797 205.703 128.797 216.263 128.797 216.263 144.637 226.823 144.637 237.503 144.637 237.503 160.477 248.063 160.477 258.623 160.477 258.623 176.317 269.183 176.317 279.863 176.317 290.423 176.317 290.423 192.157 300.983 192.157 300.983 207.997 311.543 207.997 322.223 207.997 322.223 223.837"/>
+  <text class="cls-6" transform="translate(11.322 226.636)"><tspan x="0" y="0">0</tspan></text>
+  <text class="cls-6" transform="translate(11.322 194.964)"><tspan x="0" y="0">2</tspan></text>
+  <text class="cls-6" transform="translate(11.322 163.292)"><tspan x="0" y="0">4</tspan></text>
+  <text class="cls-6" transform="translate(11.322 131.612)"><tspan x="0" y="0">6</tspan></text>
+  <text class="cls-6" transform="translate(11.322 99.941)"><tspan x="0" y="0">8</tspan></text>
+  <text class="cls-6" transform="translate(6.252 68.269)"><tspan x="0" y="0">10</tspan></text>
+  <text class="cls-6" transform="translate(6.252 36.597)"><tspan x="0" y="0">12</tspan></text>
+  <text class="cls-6" transform="translate(23.134 239.644)"><tspan x="0" y="0">0</tspan></text>
+  <text class="cls-6" transform="translate(76.08 239.644)"><tspan x="0" y="0">5</tspan></text>
+  <text class="cls-6" transform="translate(126.486 239.644)"><tspan x="0" y="0">10</tspan></text>
+  <text class="cls-6" transform="translate(179.439 239.644)"><tspan x="0" y="0">15</tspan></text>
+  <text class="cls-6" transform="translate(232.384 239.644)"><tspan x="0" y="0">20</tspan></text>
+  <text class="cls-6" transform="translate(285.33 239.644)"><tspan x="0" y="0">25</tspan></text>
+  <text class="cls-6" transform="translate(338.275 239.644)"><tspan x="0" y="0">30</tspan></text>
+  <text class="cls-7" transform="translate(145.791 250.987)"><tspan class="cls-8" x="0" y="0">D</tspan><tspan x="6.249" y="0">a</tspan><tspan class="cls-8" x="11.166" y="0">y</tspan><tspan class="cls-19" x="15.853" y="0">s</tspan><tspan class="cls-10" x="19.816" y="0"> </tspan><tspan class="cls-9" x="22.208" y="0">p</tspan><tspan class="cls-3" x="27.602" y="0">o</tspan><tspan class="cls-19" x="32.996" y="0">s</tspan><tspan class="cls-16" x="36.959" y="0">ti</tspan><tspan class="cls-9" x="42.751" y="0">n</tspan><tspan class="cls-1" x="48.146" y="0">f</tspan><tspan class="cls-15" x="51.267" y="0">e</tspan><tspan class="cls-17" x="56.301" y="0">ct</tspan><tspan class="cls-2" x="60.498" y="0">i</tspan><tspan class="cls-18" x="66.29" y="0">o</tspan><tspan x="71.684" y="0">n</tspan></text>
+  <text class="cls-5" transform="translate(50.807 184.42)"><tspan x="0" y="0">무처리</tspan></text>
+  <text class="cls-5" transform="translate(177.125 185.104)"><tspan x="0" y="0">경구투여</tspan></text>
+  <text class="cls-5" transform="translate(248.358 152.203)"><tspan x="0" y="0">복강투여</tspan></text>
+  <text class="cls-4" transform="translate(264.32 81.53)"><tspan x="0" y="0">실험모델 : 마우스</tspan><tspan x="0" y="10.8">시험물질 : 흑미강발효분말</tspan><tspan x="0" y="21.6">투여량 : 10mg/kg</tspan></text>
+  <text class="cls-5" transform="translate(9.156 10.356)"><tspan x="0" y="0">생존</tspan><tspan x="-9.156" y="14.4">마우스</tspan></text>
+</svg>

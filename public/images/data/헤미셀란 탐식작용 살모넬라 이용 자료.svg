@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 349.827 141.289">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21 {
+        stroke: #231916;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-7, .cls-8, .cls-12 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-10, .cls-16, .cls-17 {
+        stroke-width: .229px;
+      }
+
+      .cls-22 {
+        font-size: 5.08px;
+      }
+
+      .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28 {
+        fill: #231916;
+      }
+
+      .cls-22, .cls-23, .cls-24, .cls-25, .cls-27, .cls-28 {
+        font-family: AppleSDGothicNeoSB00, AppleSDGothicNeoSB00;
+      }
+
+      .cls-23 {
+        font-size: 5.556px;
+      }
+
+      .cls-2 {
+        stroke-width: .847px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-13, .cls-21 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: .636px;
+      }
+
+      .cls-24 {
+        font-size: 6.774px;
+      }
+
+      .cls-4 {
+        stroke-width: .848px;
+      }
+
+      .cls-5, .cls-9, .cls-16, .cls-18 {
+        fill: #2ea7e0;
+      }
+
+      .cls-5, .cls-13, .cls-14, .cls-20 {
+        stroke-width: .423px;
+      }
+
+      .cls-6, .cls-9, .cls-19 {
+        stroke-width: .292px;
+      }
+
+      .cls-6, .cls-10, .cls-14, .cls-15 {
+        fill: #9cd7ea;
+      }
+
+      .cls-7 {
+        stroke-width: .146px;
+      }
+
+      .cls-8 {
+        stroke-width: .146px;
+      }
+
+      .cls-25 {
+        font-size: 5.566px;
+      }
+
+      .cls-26 {
+        font-family: NotoSansCJKkr-Medium-KSCpc-EUC-H, 'Noto Sans CJK KR';
+        font-size: 8px;
+        font-weight: 500;
+      }
+
+      .cls-11, .cls-15, .cls-18 {
+        stroke-width: .293px;
+      }
+
+      .cls-11, .cls-17, .cls-19, .cls-20 {
+        fill: #056fb8;
+      }
+
+      .cls-12 {
+        stroke-width: .212px;
+      }
+
+      .cls-27 {
+        font-size: 5.09px;
+      }
+
+      .cls-28 {
+        font-size: 6.786px;
+      }
+
+      .cls-21 {
+        stroke-width: .687px;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <polyline class="cls-13" points="109.452 107.86 109.452 98.661 107.239 98.661 111.664 98.661"/>
+      <polyline class="cls-13" points="65.408 106.126 65.408 96.927 63.195 96.927 67.62 96.927"/>
+      <polyline class="cls-13" points="124.597 96.129 124.597 86.93 122.385 86.93 126.81 86.93"/>
+      <polyline class="cls-13" points="153.987 34.692 153.987 27.186 151.774 27.186 156.199 27.186"/>
+      <polyline class="cls-13" points="139.32 67.276 139.32 58.076 137.107 58.076 141.532 58.076"/>
+      <polyline class="cls-13" points="80.319 97.35 80.319 88.151 78.107 88.151 82.532 88.151"/>
+      <polyline class="cls-13" points="50.686 123.523 50.686 114.324 48.473 114.324 52.898 114.324"/>
+    </g>
+    <rect class="cls-20" x="146.257" y="33.763" width="15.569" height="94.07"/>
+    <rect class="cls-20" x="72.072" y="89.812" width="15.569" height="38.021"/>
+    <rect class="cls-5" x="131.535" y="62.253" width="14.722" height="65.702"/>
+    <rect class="cls-5" x="57.623" y="98.661" width="14.722" height="29.293"/>
+    <rect class="cls-14" x="116.813" y="89.812" width="14.722" height="38.143"/>
+    <rect class="cls-14" x="42.901" y="115.214" width="14.722" height="12.741"/>
+    <rect class="cls-12" x="102.091" y="100.464" width="14.722" height="27.491"/>
+    <rect class="cls-12" x="28.179" y="118.327" width="14.722" height="9.627"/>
+    <line class="cls-2" x1="18.264" y1="127.833" x2="167.398" y2="127.833"/>
+    <line class="cls-2" x1="18.264" y1="19.256" x2="21.05" y2="19.256"/>
+    <line class="cls-2" x1="18.4" y1="37.352" x2="21.186" y2="37.352"/>
+    <line class="cls-2" x1="18.4" y1="55.448" x2="21.186" y2="55.448"/>
+    <line class="cls-2" x1="18.4" y1="73.544" x2="21.186" y2="73.544"/>
+    <line class="cls-2" x1="18.4" y1="91.64" x2="21.186" y2="91.64"/>
+    <line class="cls-2" x1="18.4" y1="109.737" x2="21.186" y2="109.737"/>
+    <line class="cls-2" x1="18.4" y1="127.833" x2="21.186" y2="127.833"/>
+    <text class="cls-22" transform="translate(14.289 129.375)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-22" transform="translate(12.379 111.384)"><tspan x="0" y="0">10</tspan></text>
+    <text class="cls-22" transform="translate(11.576 93.393)"><tspan x="0" y="0">20</tspan></text>
+    <text class="cls-22" transform="translate(11.566 75.401)"><tspan x="0" y="0">30</tspan></text>
+    <text class="cls-22" transform="translate(11.377 57.411)"><tspan x="0" y="0">40</tspan></text>
+    <text class="cls-22" transform="translate(11.713 39.419)"><tspan x="0" y="0">50</tspan></text>
+    <text class="cls-22" transform="translate(11.408 21.429)"><tspan x="0" y="0">60</tspan></text>
+    <text class="cls-24" transform="translate(5.501 115.213) rotate(-90)"><tspan x="0" y="0">박테리아를 탐식한 면역세포 (%)</tspan></text>
+    <text class="cls-24" transform="translate(50.686 138.321)"><tspan x="0" y="0">30분 후</tspan></text>
+    <text class="cls-24" transform="translate(124.174 138.856)"><tspan x="0" y="0">60분 후</tspan></text>
+    <g>
+      <rect class="cls-7" x="28.179" y="19.38" width="11.472" height="4.415"/>
+      <text class="cls-23" transform="translate(44.749 23.796)"><tspan x="0" y="0">대조군</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-6" x="28.179" y="26.142" width="11.472" height="4.415"/>
+      <text class="cls-23" transform="translate(44.646 30.558)"><tspan x="0" y="0">Bio-BRB(1μg/mL)</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-9" x="28.179" y="32.938" width="11.472" height="4.415"/>
+      <text class="cls-23" transform="translate(44.646 37.353)"><tspan x="0" y="0">Bio-BRB(10μg/mL)</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-19" x="28.179" y="39.733" width="11.472" height="4.415"/>
+      <text class="cls-23" transform="translate(44.646 44.148)"><tspan x="0" y="0">Bio-BRB(100μg/mL)</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <polyline class="cls-21" points="276.64 106.994 276.64 103.492 274.345 103.492 278.936 103.492"/>
+      <polyline class="cls-21" points="237.856 31.718 237.856 22.277 235.561 22.277 240.152 22.277"/>
+      <polyline class="cls-21" points="218.39 72.407 218.39 68.904 216.095 68.904 220.685 68.904"/>
+      <polyline class="cls-21" points="228.123 53.759 228.123 45.591 225.828 45.591 230.418 45.591"/>
+      <polyline class="cls-21" points="267.226 95.502 267.226 91.999 264.931 91.999 269.521 91.999"/>
+      <polyline class="cls-21" points="257.493 93.203 257.493 89.7 255.198 89.7 259.788 89.7"/>
+      <polyline class="cls-21" points="208.657 76.566 208.657 73.064 206.362 73.064 210.952 73.064"/>
+      <polyline class="cls-21" points="286.692 111.796 286.692 108.294 284.397 108.294 288.988 108.294"/>
+      <polyline class="cls-21" points="305.691 98.238 305.691 94.735 303.396 94.735 307.986 94.735"/>
+      <polyline class="cls-21" points="315.095 102.951 315.095 99.449 312.8 99.449 317.39 99.449"/>
+      <polyline class="cls-21" points="324.733 116.681 324.733 113.178 322.437 113.178 327.028 113.178"/>
+      <polyline class="cls-21" points="334.763 120.293 334.763 116.79 332.468 116.79 337.059 116.79"/>
+    </g>
+    <text class="cls-28" transform="translate(177.491 115.039) rotate(-90)"><tspan x="0" y="0">면역세포내 살아있는 박테리아</tspan></text>
+    <text class="cls-28" transform="translate(215.516 139.708)"><tspan x="0" y="0">2시간</tspan></text>
+    <text class="cls-28" transform="translate(265.136 139.708)"><tspan x="0" y="0">4시간</tspan></text>
+    <text class="cls-28" transform="translate(314.846 139.707)"><tspan x="0" y="0">8시간</tspan></text>
+    <g>
+      <rect class="cls-8" x="279.5" y="26.518" width="11.493" height="4.423"/>
+      <text class="cls-25" transform="translate(296.099 30.941)"><tspan x="0" y="0">대조군</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-15" x="279.5" y="33.292" width="11.493" height="4.423"/>
+      <text class="cls-25" transform="translate(295.996 37.715)"><tspan x="0" y="0">Bio-BRB(1μg/mL)</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-18" x="279.5" y="40.1" width="11.493" height="4.423"/>
+      <text class="cls-25" transform="translate(295.996 44.523)"><tspan x="0" y="0">Bio-BRB(10μg/mL)</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-11" x="279.5" y="46.907" width="11.493" height="4.423"/>
+      <text class="cls-25" transform="translate(295.996 51.33)"><tspan x="0" y="0">Bio-BRB(100μg/mL)</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-1" x="203.939" y="76.019" width="9.436" height="52.975"/>
+      <rect class="cls-10" x="213.672" y="71.969" width="9.436" height="57.025"/>
+      <rect class="cls-16" x="223.405" y="52.049" width="9.436" height="76.946"/>
+      <rect class="cls-17" x="233.139" y="29.173" width="9.436" height="99.821"/>
+    </g>
+    <rect class="cls-1" x="252.775" y="91.452" width="9.436" height="37.543"/>
+    <rect class="cls-10" x="262.508" y="94.735" width="9.436" height="34.259"/>
+    <rect class="cls-16" x="272.241" y="105.243" width="9.436" height="23.751"/>
+    <rect class="cls-17" x="281.975" y="109.074" width="9.436" height="19.921"/>
+    <rect class="cls-1" x="300.973" y="97.362" width="9.436" height="31.632"/>
+    <rect class="cls-10" x="310.707" y="101.084" width="9.436" height="27.911"/>
+    <rect class="cls-16" x="320.44" y="114.109" width="9.436" height="14.886"/>
+    <rect class="cls-17" x="330.173" y="117.83" width="9.436" height="11.164"/>
+    <line class="cls-3" x1="196.045" y1="19.431" x2="196.045" y2="129.542"/>
+    <line class="cls-3" x1="21.186" y1="19.431" x2="21.186" y2="129.542"/>
+    <line class="cls-3" x1="196.045" y1="129.117" x2="349.827" y2="129.117"/>
+    <line class="cls-4" x1="192.884" y1="19.856" x2="195.675" y2="19.856"/>
+    <line class="cls-4" x1="192.884" y1="56.235" x2="195.675" y2="56.235"/>
+    <line class="cls-4" x1="193.254" y1="92.615" x2="196.045" y2="92.615"/>
+    <line class="cls-4" x1="193.254" y1="128.994" x2="196.045" y2="128.994"/>
+    <text class="cls-27" transform="translate(188.703 130.362)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-27" transform="translate(184.973 94.213)"><tspan x="0" y="0">5만</tspan></text>
+    <text class="cls-27" transform="translate(182.388 58.033)"><tspan x="0" y="0">10만</tspan></text>
+    <text class="cls-27" transform="translate(183.06 21.853)"><tspan x="0" y="0">15만</tspan></text>
+  </g>
+  <g>
+    <text class="cls-26" transform="translate(46.433 7.04)"><tspan x="0" y="0">헤미셀란의 살모넬라 Engulfment 촉진</tspan></text>
+    <text class="cls-26" transform="translate(243.964 7.04)"><tspan x="0" y="0">헤미셀란의 살모넬라 lysis 촉진</tspan></text>
+  </g>
+</svg>
