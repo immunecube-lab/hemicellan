@@ -7,6 +7,8 @@ import { Analytics } from "@vercel/analytics/react";
 
 import "./globals.css";
 import { GlobalTopNav } from "../GlobalTopNav";
+import { SiteFooter } from "@/components/SiteFooter"; 
+// ↑ alias 안 쓰면 "../components/SiteFooter"
 
 const pretendard = localFont({
   src: [
@@ -41,6 +43,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       >
         <GlobalTopNav />
         {children}
+        <SiteFooter />
         <Analytics />
       </body>
     </html>
