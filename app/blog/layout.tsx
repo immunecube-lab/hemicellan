@@ -27,7 +27,7 @@ export default function BlogLayout({ children }: { children: ReactNode }) {
             href="/"
             className="text-xs font-semibold uppercase tracking-wide text-neutral-500"
           >
-            immunecube
+            Hemicellan
           </Link>
           <h2 className="mt-1 text-lg font-bold">블로그</h2>
           <p className="mt-1 text-xs text-neutral-500">
