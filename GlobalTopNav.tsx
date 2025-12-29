@@ -69,9 +69,14 @@ export function GlobalTopNav() {
         <div className="flex items-center justify-between gap-3">
           {/* 왼쪽: 로고/사이트명 + 기본 네비 */}
           <div className="flex items-center gap-3">
-            <Link href="/" className="font-semibold tracking-tight">
-              헤미셀란
-            </Link>
+            <Link href="/" className="inline-flex items-center gap-2">
+             <img
+               src="/brand/hemicellan-logo-korean.svg"
+               alt="헤미셀란"
+               className="h-8 w-auto"
+             />
+           </Link>
+
 
             <nav className="hidden md:flex items-center gap-2">
               {NAV.map((item) => (
