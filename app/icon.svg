@@ -1,27 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129.167 129.167">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: none;
-      }
-
-      .cls-1, .cls-2 {
-        stroke-width: 0px;
-      }
-
-      .cls-2 {
-        fill: #f37032;
-      }
-    </style>
-  </defs>
-  <g>
-    <path class="cls-2" d="m31.334,115.016h39.309v-40.883H31.334v40.883Zm9.445-31.438h20.419v21.993h-20.419v-21.993Z"/>
-    <g>
-      <polygon class="cls-2" points="106.486 64.557 111.762 59.445 98.508 45.768 112.091 45.768 112.091 38.422 94.557 38.422 94.557 19.554 85.112 19.554 85.112 38.422 67.578 38.422 67.578 45.768 81.16 45.768 67.907 59.445 73.182 64.557 85.112 52.247 85.112 118.022 94.557 118.022 94.557 52.247 106.486 64.557"/>
-      <rect class="cls-2" x="98.797" y="24.16" width="12.798" height="7.346" transform="translate(12.002 84.01) rotate(-45.902)"/>
-      <rect class="cls-2" x="70.8" y="21.435" width="7.346" height="12.798" transform="translate(1.622 59.671) rotate(-44.099)"/>
-    </g>
-  </g>
-  <rect class="cls-1" width="129.167" height="129.167"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="_레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 129.2 129.2" style="enable-background:new 0 0 129.2 129.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#752E4A;}
+	.st1{fill:none;}
+</style>
+<g>
+	<path class="st0" d="M31.3,115h39.3V74.1H31.3C31.3,74.1,31.3,115,31.3,115z M40.8,83.6h20.4v22H40.8V83.6z"/>
+	<g>
+		<polygon class="st0" points="106.5,64.6 111.8,59.4 98.5,45.8 112.1,45.8 112.1,38.4 94.6,38.4 94.6,19.6 85.1,19.6 85.1,38.4 
+			67.6,38.4 67.6,45.8 81.2,45.8 67.9,59.4 73.2,64.6 85.1,52.2 85.1,118 94.6,118 94.6,52.2 		"/>
+		
+			<rect x="98.8" y="24.2" transform="matrix(0.6959 -0.7182 0.7182 0.6959 12.0034 84.0098)" class="st0" width="12.8" height="7.3"/>
+		
+			<rect x="70.8" y="21.4" transform="matrix(0.7181 -0.6959 0.6959 0.7181 1.6216 59.6715)" class="st0" width="7.3" height="12.8"/>
+	</g>
+</g>
+<rect y="0" class="st1" width="129.2" height="129.2"/>
 </svg>
