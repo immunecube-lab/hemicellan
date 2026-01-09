@@ -148,7 +148,7 @@ export default function Home() {
 
           {/* ★ 수정 3: 설명 1줄로 축소 */}
           <p className="mt-2 text-sm leading-relaxed text-neutral-600">
-            처음 방문하셨다면 문서(Docs)의{""}
+            처음 방문하셨다면 문서(Docs)의 {""}
             <Link
               href="/docs/guide"
               className="font-medium text-neutral-900 underline underline-offset-4 hover:text-neutral-700"

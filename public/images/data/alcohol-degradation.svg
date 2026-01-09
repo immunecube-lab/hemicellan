@@ -1,200 +1,143 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 548.405 282.116">
-  <defs>
-    <style>
-      .cls-1 {
-        font-size: 12.7px;
-      }
-
-      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
-        font-family: AppleSDGothicNeoEB00, AppleSDGothicNeoEB00;
-      }
-
-      .cls-1, .cls-2, .cls-3, .cls-5, .cls-9, .cls-6, .cls-10, .cls-7, .cls-8 {
-        fill: #231f20;
-      }
-
-      .cls-11 {
-        stroke-width: 2.122px;
-      }
-
-      .cls-11, .cls-12, .cls-13 {
-        fill: none;
-        stroke: #be1e2d;
-        stroke-miterlimit: 10;
-      }
-
-      .cls-12 {
-        stroke-width: 2px;
-      }
-
-      .cls-13 {
-        stroke-width: 1.55px;
-      }
-
-      .cls-2 {
-        letter-spacing: 0em;
-      }
-
-      .cls-2, .cls-3, .cls-7 {
-        font-size: 17px;
-      }
-
-      .cls-3 {
-        letter-spacing: 0em;
-      }
-
-      .cls-14 {
-        fill: #e6e6e5;
-      }
-
-      .cls-14, .cls-10, .cls-15, .cls-16 {
-        stroke-width: 0px;
-      }
-
-      .cls-4 {
-        fill: #fff;
-        font-size: 9.973px;
-      }
-
-      .cls-5, .cls-9 {
-        font-size: 12px;
-      }
-
-      .cls-9 {
-        font-family: AppleSDGothicNeoR00, AppleSDGothicNeoR00;
-      }
-
-      .cls-6 {
-        font-size: 15px;
-      }
-
-      .cls-15 {
-        fill: #d2d2d4;
-      }
-
-      .cls-16 {
-        fill: #be1e2d;
-      }
-
-      .cls-8 {
-        font-size: 13px;
-      }
-    </style>
-  </defs>
-  <rect class="cls-15" x="280.258" y="96.45" width="187.405" height="89.217"/>
-  <rect class="cls-15" width="274.716" height="89.217"/>
-  <rect class="cls-14" y="96.45" width="274.716" height="89.217"/>
-  <rect class="cls-15" y="192.9" width="274.716" height="89.217"/>
-  <g>
-    <path class="cls-12" d="m200.848,104.121c-8.384-28.311-36.919-49.161-70.846-49.161s-62.462,20.85-70.846,49.161"/>
-    <polygon class="cls-16" points="206.354 96.632 200.146 101.752 192.151 100.839 204.238 115.569 206.354 96.632"/>
-  </g>
-  <g>
-    <path class="cls-12" d="m197.99,155.607c-8.384,28.311-36.919,49.161-70.846,49.161s-62.462-20.85-70.846-49.161"/>
-    <polygon class="cls-16" points="189.294 158.89 197.289 157.976 203.496 163.096 201.38 144.159 189.294 158.89"/>
-  </g>
-  <g>
-    <path class="cls-12" d="m152.874,141.971c-4.883-8.343-14.571-14.028-25.73-14.028-13.462,0-24.783,8.273-28.11,19.506"/>
-    <polygon class="cls-16" points="154.961 137.926 152.25 140.899 148.229 141.013 155.254 147.449 154.961 137.926"/>
-  </g>
-  <g>
-    <path class="cls-12" d="m352.194,141.971c-4.883-8.343-14.571-14.028-25.73-14.028-13.462,0-24.783,8.273-28.11,19.506"/>
-    <polygon class="cls-16" points="354.28 137.926 351.57 140.899 347.548 141.013 354.573 147.449 354.28 137.926"/>
-  </g>
-  <g>
-    <path class="cls-12" d="m300.733,168.104c4.883,8.343,14.571,14.028,25.73,14.028,13.462,0,24.783-8.273,28.11-19.506"/>
-    <polygon class="cls-16" points="298.646 172.149 301.357 169.176 305.378 169.062 298.353 162.626 298.646 172.149"/>
-  </g>
-  <g>
-    <path class="cls-12" d="m168.803,229.587c-6.948-14.597-22.982-24.819-41.659-24.819-20.975,0-38.615,12.89-43.799,30.393"/>
-    <polygon class="cls-16" points="171.136 225.636 168.278 228.467 164.255 228.375 170.942 235.161 171.136 225.636"/>
-  </g>
-  <g>
-    <path class="cls-12" d="m171.661,30.141c-6.948,14.597-22.982,24.819-41.659,24.819-20.975,0-38.615-12.89-43.799-30.393"/>
-    <polygon class="cls-16" points="167.113 31.354 171.135 31.262 173.994 34.093 173.8 24.568 167.113 31.354"/>
-  </g>
-  <text class="cls-7" transform="translate(32.3 134.941)"><tspan x="0" y="0">알코올</tspan></text>
-  <text class="cls-7" transform="translate(165.208 134.94)"><tspan x="0" y="0">아세트알데히드</tspan></text>
-  <text class="cls-7" transform="translate(399.22 134.94)"><tspan x="0" y="0">초산</tspan></text>
-  <text class="cls-7" transform="translate(489.585 134.94)"><tspan x="0" y="0">혈액순환</tspan></text>
-  <text class="cls-7" transform="translate(109.992 118.311)"><tspan x="0" y="0">ADH</tspan></text>
-  <text class="cls-7" transform="translate(296.525 118.312)"><tspan x="0" y="0">ALDH2</tspan></text>
-  <text class="cls-7" transform="translate(79.129 166.314)"><tspan x="0" y="0">NAD</tspan></text>
-  <text class="cls-7" transform="translate(113.469 160.653) scale(.583)"><tspan x="0" y="0">+</tspan></text>
-  <text class="cls-6" transform="translate(282.592 160.87)"><tspan x="0" y="0">NAD</tspan></text>
-  <text class="cls-6" transform="translate(312.892 155.875) scale(.583)"><tspan x="0" y="0">+</tspan></text>
-  <text class="cls-7" transform="translate(7.01 258.649)"><tspan x="0" y="0">NADPH + H</tspan></text>
-  <text class="cls-3" transform="translate(92.859 252.988) scale(.583)"><tspan x="0" y="0">+</tspan></text>
-  <text class="cls-7" transform="translate(97.954 258.649)"><tspan x="0" y="0" xml:space="preserve"> + O</tspan></text>
-  <text class="cls-7" transform="translate(127.634 260.31) scale(.583)"><tspan x="0" y="0">2</tspan></text>
-  <text class="cls-7" transform="translate(148.688 258.649)"><tspan x="0" y="0">NADP</tspan></text>
-  <text class="cls-7" transform="translate(193.194 252.988) scale(.583)"><tspan x="0" y="0">+</tspan></text>
-  <text class="cls-7" transform="translate(198.288 258.649)"><tspan x="0" y="0" xml:space="preserve"> + 2H</tspan></text>
-  <text class="cls-7" transform="translate(236.911 261.31) scale(.583)"><tspan x="0" y="0">2</tspan></text>
-  <text class="cls-7" transform="translate(242.223 258.649)"><tspan x="0" y="0">O</tspan></text>
-  <text class="cls-7" transform="translate(65.41 17.22)"><tspan x="0" y="0">H</tspan></text>
-  <text class="cls-7" transform="translate(77.242 18.881) scale(.583)"><tspan x="0" y="0">2</tspan></text>
-  <text class="cls-7" transform="translate(82.554 17.22)"><tspan x="0" y="0">O</tspan></text>
-  <text class="cls-2" transform="translate(94.556 18.881) scale(.583)"><tspan x="0" y="0">2</tspan></text>
-  <text class="cls-7" transform="translate(155.253 17.22)"><tspan x="0" y="0">H</tspan></text>
-  <text class="cls-7" transform="translate(167.086 18.881) scale(.583)"><tspan x="0" y="0">2</tspan></text>
-  <text class="cls-7" transform="translate(172.398 17.22)"><tspan x="0" y="0">O</tspan></text>
-  <text class="cls-7" transform="translate(131.573 166.314)"><tspan x="0" y="0">NADH</tspan></text>
-  <text class="cls-6" transform="translate(335.745 160.87)"><tspan x="0" y="0">NADH</tspan></text>
-  <g>
-    <line class="cls-13" x1="99.034" y1="125.922" x2="150.028" y2="125.922"/>
-    <polygon class="cls-16" points="160.969 125.922 145.552 132.221 149.21 125.922 145.552 119.623 160.969 125.922"/>
-  </g>
-  <text class="cls-5" transform="translate(110.162 221.736)"><tspan x="0" y="0">CYP2E1</tspan></text>
-  <text class="cls-5" transform="translate(110.162 50.96)"><tspan x="0" y="0">Catalase</tspan></text>
-  <g>
-    <line class="cls-11" x1="274.716" y1="125.921" x2="375.919" y2="125.921"/>
-    <polygon class="cls-16" points="390.905 125.921 369.788 134.55 374.799 125.921 369.788 117.295 390.905 125.921"/>
-  </g>
-  <g>
-    <line class="cls-11" x1="435.232" y1="125.921" x2="464.807" y2="125.921"/>
-    <polygon class="cls-16" points="479.793 125.921 458.676 134.55 463.686 125.921 458.676 117.295 479.793 125.921"/>
-  </g>
-  <g>
-    <circle class="cls-10" cx="231.922" cy="105.953" r="5.49"/>
-    <text class="cls-4" transform="translate(230.052 110.007)"><tspan x="0" y="0">1</tspan></text>
-  </g>
-  <g>
-    <circle class="cls-10" cx="292.863" cy="223.352" r="5.49"/>
-    <text class="cls-4" transform="translate(290.993 227.406)"><tspan x="0" y="0">1</tspan></text>
-  </g>
-  <g>
-    <circle class="cls-10" cx="326.463" cy="171.768" r="5.49"/>
-    <text class="cls-4" transform="translate(323.9 175.865)"><tspan x="0" y="0">2</tspan></text>
-  </g>
-  <g>
-    <circle class="cls-10" cx="292.863" cy="242.998" r="5.49"/>
-    <text class="cls-4" transform="translate(290.299 247.095)"><tspan x="0" y="0">2</tspan></text>
-  </g>
-  <g>
-    <circle class="cls-10" cx="127.144" cy="227.227" r="5.49"/>
-    <text class="cls-4" transform="translate(124.58 231.324)"><tspan x="0" y="0">2</tspan></text>
-  </g>
-  <g>
-    <circle class="cls-10" cx="326.463" cy="137.084" r="5.49"/>
-    <text class="cls-4" transform="translate(323.925 141.159)"><tspan x="0" y="0">3</tspan></text>
-  </g>
-  <g>
-    <circle class="cls-10" cx="292.863" cy="262.687" r="5.49"/>
-    <text class="cls-4" transform="translate(290.325 266.761)"><tspan x="0" y="0">3</tspan></text>
-  </g>
-  <g>
-    <circle class="cls-10" cx="125.059" cy="137.727" r="5.49"/>
-    <text class="cls-4" transform="translate(122.521 141.801)"><tspan x="0" y="0">3</tspan></text>
-  </g>
-  <text class="cls-1" transform="translate(226.852 12.451)"><tspan x="0" y="0">퍼록시좀</tspan></text>
-  <text class="cls-1" transform="translate(235.467 178.746)"><tspan x="0" y="0">세포질</tspan></text>
-  <text class="cls-1" transform="translate(215.477 275.729)"><tspan x="0" y="0">마이크로좀</tspan></text>
-  <text class="cls-8" transform="translate(283.642 208.881)"><tspan x="0" y="0">결과</tspan></text>
-  <text class="cls-9" transform="translate(306.131 226.915)"><tspan x="0" y="0">알데히드 결합물 형성</tspan></text>
-  <text class="cls-9" transform="translate(306.131 247.045)"><tspan x="0" y="0">활성산소 혈성 증가</tspan></text>
-  <text class="cls-9" transform="translate(306.131 266.674)"><tspan x="0" y="0">NADH:NAD</tspan></text>
-  <text class="cls-9" transform="translate(363.659 262.678) scale(.583)"><tspan x="0" y="0">+</tspan></text>
-  <text class="cls-9" transform="translate(367.458 266.674)"><tspan x="0" y="0" xml:space="preserve"> 비율 증가</tspan></text>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="_레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 548.4 282.1" style="enable-background:new 0 0 548.4 282.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#D2D2D4;}
+	.st2{fill:#E6E6E5;}
+	.st3{fill:none;stroke:#BE1E2D;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:#BE1E2D;}
+	.st5{fill:#231F20;}
+	.st6{font-family:'AppleSDGothicNeoEB00';}
+	.st7{font-size:17px;}
+	.st8{font-size:9.911px;}
+	.st9{font-size:15px;}
+	.st10{font-size:8.745px;}
+	.st11{fill:none;stroke:#BE1E2D;stroke-width:1.55;stroke-miterlimit:10;}
+	.st12{font-size:12px;}
+	.st13{fill:none;stroke:#BE1E2D;stroke-width:2.122;stroke-miterlimit:10;}
+	.st14{fill:#FFFFFF;}
+	.st15{font-size:9.973px;}
+	.st16{font-size:12.7px;}
+	.st17{font-size:13px;}
+	.st18{font-family:'AppleSDGothicNeoR00';}
+	.st19{font-size:6.996px;}
+</style>
+<rect y="0" class="st0" width="548.1" height="282.1"/>
+<rect x="280.3" y="96.4" class="st1" width="187.4" height="89.2"/>
+<rect y="0" class="st1" width="274.7" height="89.2"/>
+<rect y="96.4" class="st2" width="274.7" height="89.2"/>
+<rect y="192.9" class="st1" width="274.7" height="89.2"/>
+<g>
+	<path class="st3" d="M200.8,104.1C192.5,75.8,163.9,55,130,55s-62.5,20.9-70.8,49.2"/>
+	<polygon class="st4" points="206.4,96.6 200.1,101.8 192.2,100.8 204.2,115.6 	"/>
+</g>
+<g>
+	<path class="st3" d="M198,155.6c-8.4,28.3-36.9,49.2-70.8,49.2s-62.5-20.9-70.8-49.2"/>
+	<polygon class="st4" points="189.3,158.9 197.3,158 203.5,163.1 201.4,144.2 	"/>
+</g>
+<g>
+	<path class="st3" d="M152.9,142c-4.9-8.3-14.6-14-25.7-14c-13.5,0-24.8,8.3-28.1,19.5"/>
+	<polygon class="st4" points="155,137.9 152.2,140.9 148.2,141 155.3,147.4 	"/>
+</g>
+<g>
+	<path class="st3" d="M352.2,142c-4.9-8.3-14.6-14-25.7-14c-13.5,0-24.8,8.3-28.1,19.5"/>
+	<polygon class="st4" points="354.3,137.9 351.6,140.9 347.5,141 354.6,147.4 	"/>
+</g>
+<g>
+	<path class="st3" d="M300.7,168.1c4.9,8.3,14.6,14,25.7,14c13.5,0,24.8-8.3,28.1-19.5"/>
+	<polygon class="st4" points="298.6,172.1 301.4,169.2 305.4,169.1 298.4,162.6 	"/>
+</g>
+<g>
+	<path class="st3" d="M168.8,229.6c-6.9-14.6-23-24.8-41.7-24.8c-21,0-38.6,12.9-43.8,30.4"/>
+	<polygon class="st4" points="171.1,225.6 168.3,228.5 164.3,228.4 170.9,235.2 	"/>
+</g>
+<g>
+	<path class="st3" d="M171.7,30.1C164.7,44.7,148.7,55,130,55c-21,0-38.6-12.9-43.8-30.4"/>
+	<polygon class="st4" points="167.1,31.4 171.1,31.3 174,34.1 173.8,24.6 	"/>
+</g>
+<text transform="matrix(1 0 0 1 32.3 134.941)" class="st5 st6 st7">알코올</text>
+<text transform="matrix(1 0 0 1 165.208 134.94)" class="st5 st6 st7">아세트알데히드</text>
+<text transform="matrix(1 0 0 1 399.22 134.94)" class="st5 st6 st7">초산</text>
+<text transform="matrix(1 0 0 1 489.585 134.94)" class="st5 st6 st7">혈액순환</text>
+<text transform="matrix(1 0 0 1 109.992 118.311)" class="st5 st6 st7">ADH</text>
+<text transform="matrix(1 0 0 1 296.525 118.312)" class="st5 st6 st7">ALDH2</text>
+<text transform="matrix(1 0 0 1 79.129 166.314)" class="st5 st6 st7">NAD</text>
+<text transform="matrix(1 0 0 1 113.4692 160.6525)" class="st5 st6 st8">+</text>
+<text transform="matrix(1 0 0 1 282.592 160.87)" class="st5 st6 st9">NAD</text>
+<text transform="matrix(1 0 0 1 312.8926 155.8752)" class="st5 st6 st10">+</text>
+<text transform="matrix(1 0 0 1 7.01 258.649)" class="st5 st6 st7">NADPH + H</text>
+<text transform="matrix(1 0 0 1 92.8594 252.988)" class="st5 st6 st8">+</text>
+<text transform="matrix(1 0 0 1 97.954 258.649)" class="st5 st6 st7"> + O</text>
+<text transform="matrix(1 0 0 1 127.6338 260.3098)" class="st5 st6 st8">2</text>
+<text transform="matrix(1 0 0 1 148.688 258.649)" class="st5 st6 st7">NADP</text>
+<text transform="matrix(1 0 0 1 193.1943 252.988)" class="st5 st6 st8">+</text>
+<text transform="matrix(1 0 0 1 198.288 258.649)" class="st5 st6 st7"> + 2H</text>
+<text transform="matrix(1 0 0 1 236.9111 261.3098)" class="st5 st6 st8">2</text>
+<text transform="matrix(1 0 0 1 242.223 258.649)" class="st5 st6 st7">O</text>
+<text transform="matrix(1 0 0 1 65.41 17.22)" class="st5 st6 st7">H</text>
+<text transform="matrix(1 0 0 1 77.2422 18.881)" class="st5 st6 st8">2</text>
+<text transform="matrix(1 0 0 1 82.554 17.22)" class="st5 st6 st7">O</text>
+<text transform="matrix(1 0 0 1 94.5562 18.881)" class="st5 st6 st8">2</text>
+<text transform="matrix(1 0 0 1 155.253 17.22)" class="st5 st6 st7">H</text>
+<text transform="matrix(1 0 0 1 167.0859 18.881)" class="st5 st6 st8">2</text>
+<text transform="matrix(1 0 0 1 172.398 17.22)" class="st5 st6 st7">O</text>
+<text transform="matrix(1 0 0 1 131.573 166.314)" class="st5 st6 st7">NADH</text>
+<text transform="matrix(1 0 0 1 335.745 160.87)" class="st5 st6 st9">NADH</text>
+<g>
+	<line class="st11" x1="99" y1="125.9" x2="150" y2="125.9"/>
+	<polygon class="st4" points="161,125.9 145.6,132.2 149.2,125.9 145.6,119.6 	"/>
+</g>
+<text transform="matrix(1 0 0 1 110.162 221.736)" class="st5 st6 st12">CYP2E1</text>
+<text transform="matrix(1 0 0 1 110.162 50.96)" class="st5 st6 st12">Catalase</text>
+<g>
+	<line class="st13" x1="274.7" y1="125.9" x2="375.9" y2="125.9"/>
+	<polygon class="st4" points="390.9,125.9 369.8,134.6 374.8,125.9 369.8,117.3 	"/>
+</g>
+<g>
+	<line class="st13" x1="435.2" y1="125.9" x2="464.8" y2="125.9"/>
+	<polygon class="st4" points="479.8,125.9 458.7,134.6 463.7,125.9 458.7,117.3 	"/>
+</g>
+<g>
+	<circle class="st5" cx="231.9" cy="106" r="5.5"/>
+	<text transform="matrix(1 0 0 1 230.052 110.007)" class="st14 st6 st15">1</text>
+</g>
+<g>
+	<circle class="st5" cx="292.9" cy="223.4" r="5.5"/>
+	<text transform="matrix(1 0 0 1 290.993 227.406)" class="st14 st6 st15">1</text>
+</g>
+<g>
+	<circle class="st5" cx="326.5" cy="171.8" r="5.5"/>
+	<text transform="matrix(1 0 0 1 323.9 175.865)" class="st14 st6 st15">2</text>
+</g>
+<g>
+	<circle class="st5" cx="292.9" cy="243" r="5.5"/>
+	<text transform="matrix(1 0 0 1 290.299 247.095)" class="st14 st6 st15">2</text>
+</g>
+<g>
+	<circle class="st5" cx="127.1" cy="227.2" r="5.5"/>
+	<text transform="matrix(1 0 0 1 124.58 231.324)" class="st14 st6 st15">2</text>
+</g>
+<g>
+	<circle class="st5" cx="326.5" cy="137.1" r="5.5"/>
+	<text transform="matrix(1 0 0 1 323.925 141.159)" class="st14 st6 st15">3</text>
+</g>
+<g>
+	<circle class="st5" cx="292.9" cy="262.7" r="5.5"/>
+	<text transform="matrix(1 0 0 1 290.325 266.761)" class="st14 st6 st15">3</text>
+</g>
+<g>
+	<circle class="st5" cx="125.1" cy="137.7" r="5.5"/>
+	<text transform="matrix(1 0 0 1 122.521 141.801)" class="st14 st6 st15">3</text>
+</g>
+<text transform="matrix(1 0 0 1 226.852 12.451)" class="st5 st6 st16">퍼록시좀</text>
+<text transform="matrix(1 0 0 1 235.467 178.746)" class="st5 st6 st16">세포질</text>
+<text transform="matrix(1 0 0 1 215.477 275.729)" class="st5 st6 st16">마이크로좀</text>
+<text transform="matrix(1 0 0 1 283.642 208.881)" class="st5 st6 st17">결과</text>
+<text transform="matrix(1 0 0 1 306.131 226.915)" class="st5 st18 st12">알데히드 결합물 형성</text>
+<text transform="matrix(1 0 0 1 306.131 247.045)" class="st5 st18 st12">활성산소 혈성 증가</text>
+<text transform="matrix(1 0 0 1 306.131 266.674)" class="st5 st18 st12">NADH:NAD</text>
+<text transform="matrix(1 0 0 1 363.6592 262.6779)" class="st5 st18 st19">+</text>
+<text transform="matrix(1 0 0 1 367.458 266.674)" class="st5 st18 st12"> 비율 증가</text>
 </svg>

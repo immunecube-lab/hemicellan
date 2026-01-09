@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 329.806 256.645" style="enable-background:new 0 0 329.806 256.645;" xml:space="preserve">
+	 y="0px" viewBox="0 0 329.8 256.6" style="enable-background:new 0 0 329.8 256.6;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
 	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#F2F2F3;}
@@ -16,69 +16,94 @@
 	.st10{font-size:12px;}
 	.st11{font-size:10px;}
 </style>
-<rect class="st0" width="329.806" height="256.645"/>
+<rect y="0" class="st0" width="329.8" height="256.6"/>
+<rect y="0" class="st0" width="329.8" height="256.6"/>
 <g>
 	<g>
-		<polygon class="st1" points="52.447,212.465 89.647,212.465 89.647,214.985 52.447,214.985 52.447,212.465 		"/>
-		<polygon class="st2" points="52.447,212.465 89.647,212.465 89.647,214.985 52.447,214.985 52.447,212.465 		"/>
+		<polygon class="st1" points="52.4,212.5 89.6,212.5 89.6,215 52.4,215 		"/>
+		<polygon class="st2" points="52.4,212.5 89.6,212.5 89.6,215 52.4,215 		"/>
 	</g>
 	<g>
-		<polygon class="st3" points="145.327,71.824 182.527,71.824 182.527,214.984 145.327,214.984 145.327,71.824 		"/>
-		<polygon class="st2" points="145.327,71.824 182.527,71.824 182.527,214.984 145.327,214.984 145.327,71.824 		"/>
+		<polygon class="st3" points="145.3,71.8 182.5,71.8 182.5,215 145.3,215 		"/>
+		<polygon class="st2" points="145.3,71.8 182.5,71.8 182.5,215 145.3,215 		"/>
 	</g>
 	<g>
-		<polygon class="st4" points="238.327,156.544 275.407,156.544 275.407,214.984 238.327,214.984 238.327,156.544 		"/>
-		<polygon class="st2" points="238.327,156.544 275.407,156.544 275.407,214.984 238.327,214.984 238.327,156.544 		"/>
+		<polygon class="st4" points="238.3,156.5 275.4,156.5 275.4,215 238.3,215 		"/>
+		<polygon class="st2" points="238.3,156.5 275.4,156.5 275.4,215 238.3,215 		"/>
 	</g>
 	<g>
-		<path d="M71.047,212.465v-0.12 M68.767,212.344h4.56"/>
-		<path class="st2" d="M71.047,212.465v-0.12 M68.767,212.344h4.56"/>
+		<path d="M71,212.5v-0.1 M68.8,212.3h4.6"/>
+		<path class="st2" d="M71,212.5v-0.1 M68.8,212.3h4.6"/>
 	</g>
 	<g>
-		<path d="M163.927,71.824v-8.88 M161.767,62.945h4.44"/>
-		<path class="st2" d="M163.927,71.824v-8.88 M161.767,62.945h4.44"/>
+		<path d="M163.9,71.8v-8.9 M161.8,62.9h4.4"/>
+		<path class="st2" d="M163.9,71.8v-8.9 M161.8,62.9h4.4"/>
 	</g>
 	<g>
-		<path d="M256.927,156.545v-4.32 M254.647,152.225h4.44"/>
-		<path class="st2" d="M256.927,156.545v-4.32 M254.647,152.225h4.44"/>
+		<path d="M256.9,156.5v-4.3 M254.6,152.2h4.4"/>
+		<path class="st2" d="M256.9,156.5v-4.3 M254.6,152.2h4.4"/>
 	</g>
 	<g>
-		<path class="st5" d="M22.087,214.985h2.52"/>
+		<path class="st5" d="M22.1,215h2.5"/>
 	</g>
 	<g>
-		<line class="st5" x1="24.607" y1="214.985" x2="303.367" y2="214.985"/>
+		<line class="st5" x1="24.6" y1="215" x2="303.4" y2="215"/>
 	</g>
 	<g>
-		<path class="st5" d="M24.607,214.985v2.52 M117.487,214.985v2.52 M210.367,214.985v2.52 M303.367,214.985v2.52"/>
+		<path class="st5" d="M24.6,215v2.5 M117.5,215v2.5 M210.4,215v2.5 M303.4,215v2.5"/>
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 67.1996 206.3785)"><tspan x="0" y="0" class="st6 st7">9</tspan><tspan x="4.007" y="0" class="st6 st7">.</tspan><tspan x="6.082" y="0" class="st6 st7">2</tspan></text>
+			<text transform="matrix(1 0 0 1 67.1996 206.3785)" class="st6 st7">9</text>
+			<text transform="matrix(1 0 0 1 71.2066 206.3785)" class="st6 st7">.</text>
+			<text transform="matrix(1 0 0 1 73.2816 206.3785)" class="st6 st7">2</text>
 		</g>
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 157.4075 58.4473)"><tspan x="0" y="0" class="st6 st7">513</tspan><tspan x="12.021" y="0" class="st6 st7">.</tspan><tspan x="14.096" y="0" class="st6 st7">7</tspan></text>
+			<text transform="matrix(1 0 0 1 157.4075 58.4473)" class="st6 st7">513</text>
+			<text transform="matrix(1 0 0 1 169.4285 58.4473)" class="st6 st7">.</text>
+			<text transform="matrix(1 0 0 1 171.5035 58.4473)" class="st6 st7">7</text>
 		</g>
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 250.3635 148.1402)"><tspan x="0" y="0" class="st6 st7">209</tspan><tspan x="12.021" y="0" class="st6 st7">.</tspan><tspan x="14.096" y="0" class="st6 st7">8</tspan></text>
+			<text transform="matrix(1 0 0 1 250.3635 148.1402)" class="st6 st7">209</text>
+			<text transform="matrix(1 0 0 1 262.3845 148.1402)" class="st6 st7">.</text>
+			<text transform="matrix(1 0 0 1 264.4595 148.1402)" class="st6 st7">8</text>
 		</g>
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 59.1684 227.6441)"><tspan x="0" y="0" class="st8 st9">V</tspan><tspan x="5.194" y="0" class="st8 st9">e</tspan><tspan x="9.407" y="0" class="st8 st9">h</tspan><tspan x="13.909" y="0" class="st8 st9">i</tspan><tspan x="15.903" y="0" class="st8 st9">c</tspan><tspan x="19.698" y="0" class="st8 st9">l</tspan><tspan x="21.691" y="0" class="st8 st9">e</tspan></text>
+			<text transform="matrix(1 0 0 1 59.1684 227.6441)" class="st8 st9">V</text>
+			<text transform="matrix(1 0 0 1 64.3624 227.6441)" class="st8 st9">e</text>
+			<text transform="matrix(1 0 0 1 68.5754 227.6441)" class="st8 st9">h</text>
+			<text transform="matrix(1 0 0 1 73.0774 227.6441)" class="st8 st9">i</text>
+			<text transform="matrix(1 0 0 1 75.0714 227.6441)" class="st8 st9">c</text>
+			<text transform="matrix(1 0 0 1 78.8664 227.6441)" class="st8 st9">l</text>
+			<text transform="matrix(1 0 0 1 80.8594 227.6441)" class="st8 st9">e</text>
 		</g>
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 151.2543 227.6441)"><tspan x="0" y="0" class="st8 st9">P</tspan><tspan x="4.735" y="0" class="st8 st9">o</tspan><tspan x="9.343" y="0" class="st8 st9">s</tspan><tspan x="12.864" y="0" class="st8 st9">i</tspan><tspan x="14.857" y="0" class="st8 st9">t</tspan><tspan x="17.792" y="0" class="st8 st9">i</tspan><tspan x="19.898" y="0" class="st8 st9">v</tspan><tspan x="24.168" y="0" class="st8 st9">e</tspan></text>
+			<text transform="matrix(1 0 0 1 151.2543 227.6441)" class="st8 st9">P</text>
+			<text transform="matrix(1 0 0 1 155.9893 227.6441)" class="st8 st9">o</text>
+			<text transform="matrix(1 0 0 1 160.5973 227.6441)" class="st8 st9">s</text>
+			<text transform="matrix(1 0 0 1 164.1183 227.6441)" class="st8 st9">i</text>
+			<text transform="matrix(1 0 0 1 166.1113 227.6441)" class="st8 st9">t</text>
+			<text transform="matrix(1 0 0 1 169.0463 227.6441)" class="st8 st9">i</text>
+			<text transform="matrix(1 0 0 1 171.1523 227.6441)" class="st8 st9">v</text>
+			<text transform="matrix(1 0 0 1 175.4223 227.6441)" class="st8 st9">e</text>
 		</g>
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 152.2934 237.4098)"><tspan x="0" y="0" class="st8 st9">co</tspan><tspan x="8.192" y="0" class="st8 st9">n</tspan><tspan x="12.695" y="0" class="st8 st9">t</tspan><tspan x="15.742" y="0" class="st8 st9">r</tspan><tspan x="18.7" y="0" class="st8 st9">o</tspan><tspan x="23.203" y="0" class="st8 st9">l</tspan></text>
+			<text transform="matrix(1 0 0 1 152.2934 237.4098)" class="st8 st9">co</text>
+			<text transform="matrix(1 0 0 1 160.4854 237.4098)" class="st8 st9">n</text>
+			<text transform="matrix(1 0 0 1 164.9884 237.4098)" class="st8 st9">t</text>
+			<text transform="matrix(1 0 0 1 168.0354 237.4098)" class="st8 st9">r</text>
+			<text transform="matrix(1 0 0 1 170.9934 237.4098)" class="st8 st9">o</text>
+			<text transform="matrix(1 0 0 1 175.4964 237.4098)" class="st8 st9">l</text>
 		</g>
 	</g>
 	<g>
@@ -89,7 +114,8 @@
 </g>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 35.1146 30.977)"><tspan x="0" y="0" class="st8 st10">LPS와 IL-4로 활성화된 B세포(U266.B1)에서 IgE 생성</tspan><tspan x="111.208" y="12" class="st8 st11">(ng/mL)</tspan></text>
+		<text transform="matrix(1 0 0 1 35.1146 30.977)" class="st8 st10">LPS와 IL-4로 활성화된 B세포(U266.B1)에서 IgE 생성</text>
+		<text transform="matrix(1 0 0 1 146.3226 42.977)" class="st8 st11">(ng/mL)</text>
 	</g>
 </g>
 </svg>
