@@ -14,6 +14,10 @@ export const CATEGORIES: Record<
     order: 20,
     description: "면역계의 원리와 주요 개념을 정리한 문서 모음입니다.",
   },
+  "헤미셀란 논문": {
+    order: 25,
+    description: "헤미셀란 및 생물전환 흑미강 계열 연구 논문을 핵심 결과와 참고문헌 중심으로 정리한 문서입니다.",
+  },
   "생활면역": {
     order: 30,
     description: "일상 속 면역과 건강을 설명합니다. 생활면역을 주로 선천면역과 LPS 독소에 대한 이야기들입니다.",
